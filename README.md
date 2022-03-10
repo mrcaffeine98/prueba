@@ -1,0 +1,3 @@
+# instalacion
+    npm init
+    
